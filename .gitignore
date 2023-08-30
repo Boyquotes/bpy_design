@@ -1,3 +1,9 @@
 exports/
 .DS_Store
 *.blend1
+vertex3.blend*
+*.fbx
+*.glb
+renders/
+images/
+metadata/
